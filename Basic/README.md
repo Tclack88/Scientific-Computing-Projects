@@ -6,7 +6,7 @@ Each code has explanation of insights gained during the writing process in the c
 ## fibonnaci.py
 User provides an integer n as input. The program prints the first n Fibonacci numbers up to 80 (merely because numbers beyond this size are impeded by the default terminal size)
 
-![fibonacci example](fibonacci.png)
+![fibonacci example](fibonacci.gif)
 
 ## InfoAssist.py
 This program takes a csv file, excel spreadsheet, etc. with specific columnar information and creates a dictionary with that information. It then takes input from the user to display requested information. It's much like a limited form of SQL
