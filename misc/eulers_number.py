@@ -9,7 +9,9 @@ for _ in range(180):
 
 x = np.array(x[:-2])
 y = (1+x)**(1/x)
+z = (1-x)**(1/x)
 print(f"for x={x[-2]}, y={y[-2]}")
+print(f"for x={x[-2]}, z={z[-2]}")
 
 plt.plot(x,y)
 plt.show()
